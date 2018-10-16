@@ -3,19 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/docs/sizing/</loc>
-    <lastmod>2017-04-10T16:43:21+01:00</lastmod>
+    <loc>/docs/connor/</loc>
   </url>
   
   <url>
-    <loc>/about/quick-start/</loc>
+    <loc>/docs/werner/</loc>
     <lastmod>2018-06-24T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2018-06-24T12:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -25,25 +18,22 @@
   
   <url>
     <loc>/docs/</loc>
-    <lastmod>2017-04-10T16:43:21+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/events/</loc>
     <lastmod>2018-06-24T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/faq/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2017-04-10T16:43:21+01:00</lastmod>
+    <lastmod>2018-06-24T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2018-06-24T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

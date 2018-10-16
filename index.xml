@@ -6,30 +6,31 @@
     <description>Recent content on MSNE Journal Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2017 16:43:21 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jun 2018 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Sizing</title>
-      <link>/docs/sizing/</link>
-      <pubDate>Mon, 10 Apr 2017 16:43:21 +0100</pubDate>
+      <title>Upcoming: Connor Leahy</title>
+      <link>/docs/connor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/sizing/</guid>
-      <description>Width w5  w10  w15  w20  w25  w30  w35  w40  w45  w50  w55  w60  w65  w70  w75  w80  w85  w90  w95  w100  &amp;lt;div class=&amp;ldquo;w5&amp;rdquo;&amp;gt;w5&amp;lt;/div&amp;gt; &amp;hellip; &amp;lt;div class=&amp;ldquo;w100&amp;rdquo;&amp;gt;w100&amp;lt;/div&amp;gt;   100% width on small devices.
-w100-sm  &amp;lt;div class=&amp;ldquo;w50 w100-sm&amp;rdquo;&amp;gt;&amp;hellip;&amp;lt;/div&amp;gt;   Auto Width .w-auto
-.w-auto-sm  Max Width .max-w5 — .max-w100</description>
+      <guid>/docs/connor/</guid>
+      <description>Upcoming talk about Hierarchical Temporal Memory will be given by Connor Leahy. Date: TBA
+ 
+  Upcoming topic!   </description>
     </item>
     
     <item>
-      <title>MSNE Journal Club</title>
-      <link>/about/quick-start/</link>
+      <title>First Talk by Werner Schulz</title>
+      <link>/docs/werner/</link>
       <pubDate>Sun, 24 Jun 2018 12:00:00 +0000</pubDate>
       
-      <guid>/about/quick-start/</guid>
-      <description>Why a Journal Club? Science communication is an essential aspect of scientific research. It enables scientists and researchers to inform each other, as well as the public, about science progress and invoke scientific, political and ethical thinking. The general purpose of a journal club is to facilitate the review of research studies and to discuss implications of the study in practice. In general, a journal club helps with:
- Sharing knowledge of current research Facilitating the learning process Enhancing literature critique and appraisal skills Encouraging interaction and dialogue with other researchers Encouraging research utilization, and Promoting team building  Neuroengineering Journal Club (NJC) is all about the above-mentioned objectives.</description>
+      <guid>/docs/werner/</guid>
+      <description>First Talk Behind Us!  On 25 of June one of the MSNE Students gave the first official talk for our Journal Club:
+Topic: &amp;ldquo;Fear from the Heart: Sensitivity to Fear Stimuli Depends on Individual Heartbeats&amp;rdquo;, Garfinkel et al.
+Speaker: Werner Seitz   First talk by Werner Seitz   </description>
     </item>
     
   </channel>
