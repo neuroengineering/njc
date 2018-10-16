@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MSNE Journal Club</title>
-    <link>/</link>
-    <description>Recent content on MSNE Journal Club</description>
+    <title>Abouts on MSNE Journal Club</title>
+    <link>/about/</link>
+    <description>Recent content in Abouts on MSNE Journal Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2017 16:43:21 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jun 2018 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Sizing</title>
-      <link>/docs/sizing/</link>
-      <pubDate>Mon, 10 Apr 2017 16:43:21 +0100</pubDate>
-      
-      <guid>/docs/sizing/</guid>
-      <description>Width w5  w10  w15  w20  w25  w30  w35  w40  w45  w50  w55  w60  w65  w70  w75  w80  w85  w90  w95  w100  &amp;lt;div class=&amp;ldquo;w5&amp;rdquo;&amp;gt;w5&amp;lt;/div&amp;gt; &amp;hellip; &amp;lt;div class=&amp;ldquo;w100&amp;rdquo;&amp;gt;w100&amp;lt;/div&amp;gt;   100% width on small devices.
-w100-sm  &amp;lt;div class=&amp;ldquo;w50 w100-sm&amp;rdquo;&amp;gt;&amp;hellip;&amp;lt;/div&amp;gt;   Auto Width .w-auto
-.w-auto-sm  Max Width .max-w5 — .max-w100</description>
-    </item>
     
     <item>
       <title>MSNE Journal Club</title>
