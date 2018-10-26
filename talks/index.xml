@@ -17,9 +17,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/talks/connor/</guid>
-      <description>Upcoming talk about Hierarchical Temporal Memory will be given by Connor Leahy. Date: 7.11.2018
- 
-  Upcoming topic!   </description>
+      <description>Upcoming talk: Hierarchical Temporal Memory will be given by Connor Leahy. Date: 7.11.2018
+  HTM is a technology of artificial intelligence that was inspired by the human neocortex.
+HTM is different then the current trend of deep learning, in the sense that it is strictly kept biologically plausible and comprehensive with current neuroscience knowledge. Therefore, it can serve the purpose of solving the human brain by looking at a consistently simplified model, or eventually become a General Artificial Intelligence by reverse-engineering the only best model we have of it, the human brain.</description>
     </item>
     
     <item>
