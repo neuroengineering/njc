@@ -3,11 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/docs/connor/</loc>
+    <loc>/talks/connor/</loc>
   </url>
   
   <url>
-    <loc>/docs/werner/</loc>
+    <loc>/talks/werner/</loc>
     <lastmod>2018-06-24T12:00:00+00:00</lastmod>
   </url>
   
@@ -17,9 +17,7 @@
   </url>
   
   <url>
-    <loc>/docs/</loc>
-    <lastmod>2018-06-24T12:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/about/</loc>
   </url>
   
   <url>
@@ -34,6 +32,12 @@
   
   <url>
     <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/talks/</loc>
+    <lastmod>2018-06-24T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
