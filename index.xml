@@ -12,22 +12,31 @@
     
     
     <item>
-      <title>Upcoming: Hierarchical Temporal Memory</title>
-      <link>/talks/connor/</link>
+      <title>Upcoming: Multimodal Image Processing Application</title>
+      <link>/docs/3_fatemeh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/talks/connor/</guid>
-      <description>Upcoming talk: Hierarchical Temporal Memory will be given by Connor Leahy. Date: 7.11.2018
-  HTM is a technology of artificial intelligence that was inspired by the human neocortex.
-HTM is different then the current trend of deep learning, in the sense that it is strictly kept biologically plausible and comprehensive with current neuroscience knowledge. Therefore, it can serve the purpose of solving the human brain by looking at a consistently simplified model, or eventually become a General Artificial Intelligence by reverse-engineering the only best model we have of it, the human brain.</description>
+      <guid>/docs/3_fatemeh/</guid>
+      <description>Upcoming talk: Multimodal Image Processing Application. Date: TBA
+  Upcoming talk will be presented by Fatemeh Nejatbakhsh. She will talk about image processing in medical applications. Starting with the basic concepts, she is going to explain the typical steps of a processing pipeline. After a general overview we will dive into detailed applications. Special attention will be given to the implications of conceptually establishing a design, as it is needed in administrative positions.</description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Temporal Memory</title>
+      <link>/docs/2_connor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/2_connor/</guid>
+      <description>Hierarchical Temporal Memory given by Connor Leahy. Date: 7.11.2018
+  On 7th of November we had the pleasure to host our first guest of the winter semester - Connor Leahy. Connor is a passionate Computer Science student at TUM. Most of his knowledge is self-taught, in his free time he loves reading about Machine Learning, Neuroscience, Statistics, and Philosophy. He has recently started working at Max Planck Institute of Psychiatry, where he is developing a system to automatically detect dendritic spines with images from two-photon microscopy.</description>
     </item>
     
     <item>
       <title>Fear from the Heart</title>
-      <link>/talks/werner/</link>
+      <link>/docs/1_werner/</link>
       <pubDate>Sun, 24 Jun 2018 12:00:00 +0000</pubDate>
       
-      <guid>/talks/werner/</guid>
+      <guid>/docs/1_werner/</guid>
       <description>First Talk Behind Us!  On 25 of June one of the MSNE Students gave the first official talk for our Journal Club:
 Topic: &amp;ldquo;Fear from the Heart: Sensitivity to Fear Stimuli Depends on Individual Heartbeats&amp;rdquo;, Garfinkel et al.
 Speaker: Werner Seitz   First talk by Werner Seitz   </description>

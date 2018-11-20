@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on MSNE Journal Club</title>
+    <title>Docs on Home</title>
     <link>/docs/</link>
-    <description>Recent content in Docs on MSNE Journal Club</description>
+    <description>Recent content in Docs on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Jun 2018 12:00:00 +0000</lastBuildDate>
@@ -12,22 +12,31 @@
     
     
     <item>
-      <title>Upcoming: Connor Leahy</title>
-      <link>/docs/connor/</link>
+      <title>Upcoming: Multimodal Image Processing Application</title>
+      <link>/docs/3_fatemeh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/connor/</guid>
-      <description>Upcoming talk about Hierarchical Temporal Memory will be given by Connor Leahy. Date: TBA
- 
-  Upcoming topic!   </description>
+      <guid>/docs/3_fatemeh/</guid>
+      <description>Upcoming talk: Multimodal Image Processing Application. Date: TBA
+  Upcoming talk will be presented by Fatemeh Nejatbakhsh. She will talk about image processing in medical applications. Starting with the basic concepts, she is going to explain the typical steps of a processing pipeline. After a general overview we will dive into detailed applications. Special attention will be given to the implications of conceptually establishing a design, as it is needed in administrative positions.</description>
     </item>
     
     <item>
-      <title>First Talk by Werner Schulz</title>
-      <link>/docs/werner/</link>
+      <title>Hierarchical Temporal Memory</title>
+      <link>/docs/2_connor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/2_connor/</guid>
+      <description>Hierarchical Temporal Memory given by Connor Leahy. Date: 7.11.2018
+  On 7th of November we had the pleasure to host our first guest of the winter semester - Connor Leahy. Connor is a passionate Computer Science student at TUM. Most of his knowledge is self-taught, in his free time he loves reading about Machine Learning, Neuroscience, Statistics, and Philosophy. He has recently started working at Max Planck Institute of Psychiatry, where he is developing a system to automatically detect dendritic spines with images from two-photon microscopy.</description>
+    </item>
+    
+    <item>
+      <title>Fear from the Heart</title>
+      <link>/docs/1_werner/</link>
       <pubDate>Sun, 24 Jun 2018 12:00:00 +0000</pubDate>
       
-      <guid>/docs/werner/</guid>
+      <guid>/docs/1_werner/</guid>
       <description>First Talk Behind Us!  On 25 of June one of the MSNE Students gave the first official talk for our Journal Club:
 Topic: &amp;ldquo;Fear from the Heart: Sensitivity to Fear Stimuli Depends on Individual Heartbeats&amp;rdquo;, Garfinkel et al.
 Speaker: Werner Seitz   First talk by Werner Seitz   </description>

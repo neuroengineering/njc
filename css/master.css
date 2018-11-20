@@ -340,7 +340,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: auto;
   max-width: 1128px; }
 
-body.talks #main,
+body.docs #main,
 body.grafs-index #main,
 body.page-redactor-index #main {
   max-width: none; }
@@ -349,7 +349,7 @@ body.grafs-index #footer,
 body.page-redactor-index #footer {
   margin-top: 0; }
 
-body.talks #top {
+body.docs #top {
   margin-bottom: 0; }
 
 body.page-account #hero {
@@ -650,62 +650,62 @@ body.page-account #hero {
     font-weight: 500;
     color: rgba(0, 0, 0, 0.4); }
 
-#talks-main {
+#docs-main {
   display: flex; }
-  #talks-main #side {
+  #docs-main #side {
     width: 24%;
     padding: 28px 36px;
     border-right: 1px solid rgba(0, 0, 0, 0.1); }
-    #talks-main #side nav li {
+    #docs-main #side nav li {
       font-size: 15px;
       line-height: 40px; }
-    #talks-main #side nav li a {
+    #docs-main #side nav li a {
       display: block;
       color: #707070;
       text-decoration: none; }
-      #talks-main #side nav li a:hover {
+      #docs-main #side nav li a:hover {
         color: #ff3366;
         text-decoration: underline; }
-    #talks-main #side nav span,
-    #talks-main #side nav li.active a {
+    #docs-main #side nav span,
+    #docs-main #side nav li.active a {
       color: #ff3366;
       font-weight: bold; }
-      #talks-main #side nav span:hover,
-      #talks-main #side nav li.active a:hover {
+      #docs-main #side nav span:hover,
+      #docs-main #side nav li.active a:hover {
         text-decoration: none; }
-    #talks-main #side nav h6 {
+    #docs-main #side nav h6 {
       border-top: 1px solid #eee;
       padding-top: 16px;
       margin-top: 8px;
       margin-bottom: 8px; }
-  #talks-main #area {
+  #docs-main #area {
     width: 76%;
     padding: 32px 64px 48px 64px; }
-    #talks-main #area h1 {
+    #docs-main #area h1 {
       font-size: 36px;
       line-height: 40px;
       font-weight: 900;
       margin-bottom: 28px; }
-    #talks-main #area h3 {
+    #docs-main #area h3 {
       font-size: 18px;
       line-height: 28px; }
-    #talks-main #area .lead {
+    #docs-main #area .lead {
       font-size: 18px;
       line-height: 28px;
       margin-bottom: 24px; }
-    #talks-main #area .doc-head {
+    #docs-main #area .doc-head {
       position: relative;
       margin-top: 24px;
       padding-bottom: 8px;
       border-bottom: 1px solid #eee; }
-      #talks-main #area .doc-head span {
+      #docs-main #area .doc-head span {
         position: absolute;
         right: 0;
         top: 0;
         font-weight: normal;
         font-size: 13px;
         color: rgba(0, 0, 0, 0.4); }
-      #talks-main #area .doc-head a {
+      #docs-main #area .doc-head a {
         text-decoration: none;
         color: #000;
         display: block;
@@ -916,7 +916,7 @@ body.page-account #hero {
     font-size: 13px;
     line-height: 20px;
     color: rgba(0, 0, 0, 0.5); }
-  #components #talks-search-results p {
+  #components #docs-search-results p {
     max-width: none;
     margin-bottom: 16px; }
 
@@ -1114,10 +1114,10 @@ tr.border-none td {
   .grafs-call-to-action p {
     font-size: 20px;
     line-height: 32px; }
-  #talks-main {
+  #docs-main {
     display: block; }
-    #talks-main #side,
-    #talks-main #area {
+    #docs-main #side,
+    #docs-main #area {
       width: 100%;
       padding: 20px 0;
       border: none; }
