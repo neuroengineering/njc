@@ -1,2 +1,3 @@
 # NJC.github.io
-NCJ website repo - web itself
+NJC website repo - web itself - storage of public content
+
