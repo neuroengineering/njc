@@ -12,13 +12,21 @@
     
     
     <item>
-      <title>Upcoming: Multimodal Image Processing Application</title>
+      <title>Upcoming: Neuroelectronics</title>
+      <link>/docs/4_lennard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/4_lennard/</guid>
+      <description>Neuroelectronics. Date: TBA   The talk will be divided in two parts, presented by: by Dr. Nouran Yehia Adly Hassan, and our fellow MSNE student Lennard de Graaf.   The new talk is a work in progress, we will let you now soon!</description>
+    </item>
+    
+    <item>
+      <title>Multimodal Image Processing Application</title>
       <link>/docs/3_fatemeh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/3_fatemeh/</guid>
-      <description>Upcoming talk: Multimodal Image Processing Application. Date: 29.12.2018 at 19:00 , doors open at 18.30 Place: Karlstr. 45, room 2026 - ICS Seminar Room
-  Upcoming talk will be presented by Fatemeh Nejatbakhsh. She will talk about image processing in medical applications. Starting with the basic concepts, she is going to explain the typical steps of a processing pipeline. After a general overview we will dive into detailed applications. Special attention will be given to the implications of conceptually establishing a design, as it is needed in administrative positions.</description>
+      <description>Multimodal Image Processing Application. Date: 29.12.2018   Our recent talk happened on the 29th of November. We had a pleasure of hosting Fatemeh Nejatbakhsh, who currently works as a Visiting Researcher at Columbia University and is a PhD candidate at Department of Neurology of Ludwig-Maximilian Universität in Munich. Our speakers interest consists of developing medical devices but also methods for biomedical image processing, she is also passionate about: vestibular system, brain imaging and cognitive studies.</description>
     </item>
     
     <item>
